@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.fullwrap {
+	margin: 10px auto;
+	width: 800px;
+	min-height: 440px: 
+ 	background: #FF6600;
+}
+.haeder {
+	margin: 10px;
+	width:750px;
+	height: 100px;
+	background: green;
+}
+.wrap {
+	margin: 10px;
+	width: 750px;
+	height: 550px;
+	background: blue;
+}
+.sidebar{
+	margin: 15px;
+	width: 300px;
+	height: 530px;
+	float: right;
+	background: grey;
+}
+.main{
+	margin: 15px;
+	width: 350px;
+	height: 530px;
+	float: left;
+	background: yellow;
+
+
+}
+.footer{
+	margin: 10px;
+	width: 750px;
+	height: 150px;
+	background: red;
+}
+.cleaner{
+	clear: both;
+}
